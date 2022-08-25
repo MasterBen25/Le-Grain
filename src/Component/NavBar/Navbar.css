@@ -1,0 +1,17 @@
+.nav-style {
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid #DFDFDE;
+    border-bottom: 1px solid #DFDFDE;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.2);
+    z-index: 10;
+}
+.nav-style li {
+    list-style: none;
+    padding: 5px 20px;
+    border-left: 1px solid #DFDFDE;
+    cursor: pointer;
+}
+.nav-style li:last-child {
+    border-right: 1px solid #DFDFDE;
+}
