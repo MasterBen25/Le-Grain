@@ -1,0 +1,10 @@
+.wrapperList {
+    width: 20vw;
+    position: fixed;
+    right: 0;
+    top: 146px;
+    bottom: 0;
+    background-color: #FBF8F1;
+    border-top: 2px solid #DFDFDE;
+    border-left: 2px solid #DFDFDE;
+}
