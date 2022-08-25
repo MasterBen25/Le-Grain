@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'CaveatBold';
+    src: url('CaveatBold/CaveatBold.eot');
+    src: url('CaveatBold/CaveatBold.eot') format('embedded-opentype'),
+         url('CaveatBold/CaveatBold.woff2') format('woff2'),
+         url('CaveatBold/CaveatBold.woff') format('woff'),
+         url('CaveatBold/CaveatBold.ttf') format('truetype'),
+         url('CaveatBold/CaveatBold.svg#CaveatBold') format('svg');
+}
+@font-face {
+    font-family: 'QuattrocentoSansRegular';
+    src: url('Quattrocento/QuattrocentoSansRegular.eot');
+    src: url('Quattrocento/QuattrocentoSansRegular.eot') format('embedded-opentype'),
+         url('Quattrocento/QuattrocentoSansRegular.woff2') format('woff2'),
+         url('Quattrocento/QuattrocentoSansRegular.woff') format('woff'),
+         url('Quattrocento/QuattrocentoSansRegular.ttf') format('truetype'),
+         url('Quattrocento/QuattrocentoSansRegular.svg#QuattrocentoSansRegular') format('svg');
+}
+@font-face {
+    font-family: 'QuattrocentoSansItalic';
+    src: url('Quattrocento-italic/QuattrocentoSansItalic.eot');
+    src: url('Quattrocento-italic/QuattrocentoSansItalic.eot') format('embedded-opentype'),
+         url('Quattrocento-italic/QuattrocentoSansItalic.woff2') format('woff2'),
+         url('Quattrocento-italic/QuattrocentoSansItalic.woff') format('woff'),
+         url('Quattrocento-italic/QuattrocentoSansItalic.ttf') format('truetype'),
+         url('Quattrocento-italic/QuattrocentoSansItalic.svg#QuattrocentoSansItalic') format('svg');
+}
+
+
+.caveatbold {
+    font-family: 'CaveatBold';
+}
+.quattrocento {
+    font-family: 'QuattrocentoSansRegular';
+}
+.quattrocento-italic {
+    font-family: 'QuattrocentoSansItalic';
+}
