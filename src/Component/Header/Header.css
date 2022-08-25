@@ -1,0 +1,15 @@
+.logo-title {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    margin-top: 20px;
+}
+.logo-title p {
+    font-size: 3rem;
+    margin: 0;
+}
+.logo-title img {
+    height: 50px;
+    width: 60px;
+    margin-left: 10px;
+}
