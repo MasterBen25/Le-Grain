@@ -1,0 +1,18 @@
+.wrapper {
+    width: 80vw;
+    border-top: 2px solid #DFDFDE
+}
+.listStyle {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 0;
+}
+.itemStyle{
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.2);
+}
